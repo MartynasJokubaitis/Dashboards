@@ -5,6 +5,6 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 
 Technical part:  
 -Connecting database to Power BI by writing SQL code;  
--Creation of calendar table to convert calendar year to fiscal year;
--Calculation of measures;
--Creating a sensitivity/scenario analysis tool.
+-Creation of calendar table to convert calendar year to fiscal year;  
+-Calculation of measures;  
+-Creating a sensitivity/scenario analysis tool.  
