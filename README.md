@@ -8,6 +8,9 @@ Technical part:
 -Calculation of measures;  
 -Creating a sensitivity/scenario analysis tool.  
 
-
 Link to the database:  
 https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+
+Recency, Frequency & Monetary (RFM) analysis visualisation:  
+-Assigning customers to segments;  
+-Presenting analysis with a dashboard.
